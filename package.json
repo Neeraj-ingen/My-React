@@ -1,0 +1,11 @@
+{
+  "name": "inception",
+  "version": "1.0.0",
+  "description": "this is my first react app",
+  "main": "app.js",
+  "scripts": {
+    "test": "right now nothing"
+  },
+  "author": "neeraj maurya",
+  "license": "ISC"
+}
